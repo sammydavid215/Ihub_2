@@ -1,0 +1,190 @@
+ #first{
+     margin: 5px 400px 3px 150px;
+ }
+ 
+ .beginning{
+        display: flex;
+        justify-content: space-between;
+        height: fit-content;
+        margin-bottom: 5px 0 5px 5px;
+        width: 800px;
+        background-color: hsl(0, 0%, 98%);
+       
+    
+}
+
+h4{
+    color: hsl(216, 30%, 68%);
+    margin: 5px 5px 50px 10px;
+    font-size: 16px;
+    text-align: end;
+    padding: 0px 50px;
+}
+
+.button1{
+    background-color: hsl(0, 0%, 98%);
+    border: 1px solid hsl(273, 4%, 51%);;
+    color: hsl(273, 4%, 51%);
+    height: fit-content;
+    margin: 3px 0 0 0;
+    padding: auto;
+}
+
+
+.flex-container{
+    background-color: hsl(256, 26%, 20%);
+    height: 300px;
+    width: 1200px;
+    padding: 30px;
+    margin: 5px 0 5px 0px;
+}
+
+.prosper{
+    
+    padding: 0 300px;
+    margin: -50px 10px 0 10px;
+}
+
+p{
+color: hsl(0, 0%, 98%);
+font-size: 16px;
+}
+
+#family{
+    height: 350px;
+    width: 300px;
+    justify-content: flex-end;
+    float: right;
+    margin: -150px;
+     margin-right: 100px; 
+     margin-left: 50px; 
+     padding: 0 0px;
+}
+
+
+.different{
+    display: flex;
+    font-size: 16px;
+    display: flex;
+    justify-content: space-between;
+    margin: 5px 50px 100px 100px;
+}
+
+.blue{
+    padding: 25px 45px;
+}
+
+.affodable{
+padding: 25px 45px;
+}
+
+.people{
+    padding: 25px 45px;
+}
+
+h1{
+    font-family:'DM Serif Display', serif;
+    font-size: 30px;
+    font-weight:400px ;
+    color: hsl(0, 0%, 98%);
+}
+
+.button2{
+    border: 1px solid hsl(0, 0%, 98%);
+    background-color: hsl(256, 26%, 20%); 
+    color: hsl(0, 0%, 98%) ; 
+    margin: 20px 0 0 0 ;
+
+}
+
+.blue{
+   color: hsl(216, 30%, 68%);
+}
+
+.affodable{
+    color: hsl(216, 30%, 68%);
+}
+
+.people{
+    color:hsl(216, 30%, 68%) ;
+
+}
+
+p{
+    font-family: 'Karla', sans-serif;
+    font-size: 16px;
+    font-weight:400px 700px ;
+
+}
+
+
+h2{ font-family:'DM Serif Display', serif;
+    font-weight: 400px;
+    color: hsl(256, 26%, 20%);
+    margin: 0 0 50px 150px;
+    }
+
+h6{font-size: 15px;
+   
+    color: hsl(216, 30%, 68%);
+}
+
+h5{
+    font-size: 15px;    
+    color: hsl(256, 26%, 20%);
+}
+
+.how{
+    background-color: hsl(256, 26%, 20%);
+    display: flex;
+    justify-content: space-between;
+    height: 150px;
+    width: 1000px;
+    padding:55px 55px;
+    margin:10px 30px 5px 150px ;
+}
+
+#insure{
+    width: 70px; 
+    height: 15px;
+    margin: 15px 0 5px 150px;
+}
+
+#button3{
+    color: hsl(0, 0%, 98%);
+    border: 100px;
+    border-color: hsl(0, 0%, 98%);
+background-color:hsl(256, 26%, 20%);
+    font-size: 14px;
+    height: 40px;
+    width: 110px;
+    margin-top: 50px;
+    margin-left: -100px;
+padding-top: 90px;
+margin : 0 0px 100px 50px;
+}
+
+.imghow{
+    height: 100px;
+}
+
+.howimg{
+    margin-top: -50px;
+}
+
+.findout{
+    color: hsl(0, 0%, 98%);
+}
+
+.end{
+    text-transform: uppercase;
+    display: flex;    
+    justify-content: space-between;
+    margin: 10px 150px 5px 110px;
+}
+
+.icons{
+    display: flex;    
+    justify-content: space-between;
+    margin: 15px 150px 5px 0
+}
